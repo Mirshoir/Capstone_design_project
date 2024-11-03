@@ -41,7 +41,7 @@ MarkupSafe~=2.1.5
 joblib~=1.4.2
 certifi~=2024.8.30
 scikit-learn~=1.5.2
-pandas~=2.2.3
+pandas==1.5.3
 networkx~=3.3
 idna~=3.10
 pyparsing~=3.1.4
