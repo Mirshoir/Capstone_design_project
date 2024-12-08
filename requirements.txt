@@ -83,4 +83,4 @@ pytest~=8.3.3
 pyshimmer~=0.4.0
 pyserial~=3.5
 toml~=0.10.2
-pip install git+https://github.com/Mirshoir/pyshimmer.git
+git+https://github.com/Mirshoir/pyshimmer.git
